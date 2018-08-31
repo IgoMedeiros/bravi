@@ -1,0 +1,20 @@
+{
+  "name": "contact-api",
+  "version": "1.0.0",
+  "description": "Contact List",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.2.12",
+    "restify": "^7.2.1"
+  },
+  "devDependencies": {
+    "@types/mongoose": "^5.2.9",
+    "@types/restify": "^7.2.4"
+  }
+}

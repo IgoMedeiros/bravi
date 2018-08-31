@@ -1,4 +1,4 @@
 # Restify && Nodejs && Typescript && MongoDB
 
-1. *Simples contact list API found into [contact-api](#) directory*
+1. *Simples contact list API found into [contact-api](https://github.com/IgoMedeiros/bravi/tree/master/contact-api) directory*
 2. *Simple example to balanced brackets input with nodejs into [balanced_brackets](https://github.com/IgoMedeiros/bravi/tree/master/balanced_brackets) directory*
